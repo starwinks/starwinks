@@ -29,7 +29,7 @@
 
 ## 📬 Let's Connect!
 
-*If you share a passion for algorithms, programming, discrete math, or just want to make a friend— let's talk!🌟*
+*If you share a passion for algorithms, programming, discrete math, or just want to make a new friend— let's talk!🌟*
 
 ⚡ **Quick links**:      
 [![GitHub](https://img.shields.io/badge/starwinks-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/starwinks)

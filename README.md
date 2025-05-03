@@ -1,4 +1,4 @@
-## Hello World 👋
+# Hello World 👋
 
 [![Mail Badge](https://img.shields.io/badge/-moon.starwinks@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:moon.starwinks@gmail.com)](mailto:moon.starwinks@gmail.com)
 [![QQ Mail](https://img.shields.io/badge/starwinks@qq.com-0078d7?style=flat&logo=tencentqq&logoColor=white)](mailto:starwinks@qq.com)
@@ -6,14 +6,14 @@
 ---
 
 
-### 🚀 About Me(starwinks)
+## 🚀 About Me(starwinks)
 - **Computer Science** undergraduate @ **Nanjing University** (NJU)
 - 📚 Passionate about **coding** and theoretical **mathematics** (like Discrete Mathematics)
 - 🌱 Currently learning in Nanjing, China.
 - 💬 Fell free to contact me on [starwinks@qq.com](mailto:starwinks@qq.com)
 - ⚡ Fun fact: *~~My favorite anime character is Elaina(see my avatar👆)~~*
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
 - 💻 &#160; ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -27,7 +27,7 @@
 
 ---
 
-### 📬 Let's Connect!
+## 📬 Let's Connect!
 
 *If you share a passion for algorithms, programming, discrete math, or just want to make a friend— let's talk!🌟*
 

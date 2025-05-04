@@ -10,7 +10,7 @@
 - **Computer Science** undergraduate @ **Nanjing University** (NJU)
 - 📚 Passionate about **coding** and theoretical **mathematics** (like Discrete Mathematics)
 - 🌱 Currently learning in Nanjing, China.
-- 💬 Fell free to contact me on [starwinks@qq.com](mailto:starwinks@qq.com)
+- 💬 Feel free to contact me on [starwinks@qq.com](mailto:starwinks@qq.com)
 - ⚡ Fun fact: *~~My favorite anime character is Elaina(see my avatar👆)~~*
 
 ## 🛠 Tech Stack
